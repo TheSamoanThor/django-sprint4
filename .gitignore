@@ -150,3 +150,8 @@ media/
 
 sent_emails/
 
+# local saves
+
+Copy_Files_POSSIBLE_DANGER_RUN_ONLY_HERE.py
+start_copy.bat
+Project_Files.txt
